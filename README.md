@@ -5,7 +5,7 @@ Copyright © 2010-2020 [Scientist Wanted](http://plug.dj/scientists/) All rights
 A Bot script which is `only` use for [Scientist Wanted](http://plug.dj/scientists/)
 
 Permission to change anything on this script, You can always contact the author at
-[Scientist Wanted](http://goo.gl/cMMMc1)
+[Scientist Wanted](http://plug.dj/scientists/)
 If there happen to be a bug or problem with the bot you can report issues about Bot if it has bugs.
 
 
