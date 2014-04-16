@@ -11,8 +11,6 @@ If there happen to be a bug or problem with the bot you can report issues about 
 
 `Warning` This script can only be function at [Scientist Wanted](http://plug.dj/scientists/), If any of this script is being customized by unknown author will face the consequences!
 
- * @Author:    Thomas - FunkMeister (Manager. At Scientist)
- * @Author:    Tawi Jordan - ๖ۣۜĐJ - ɴᴇᴏɴ - TFL (Member. on Plug.dj)
- * @Author:    Zanriion - Zanriion (Host. At Scientist wanted)
-
---------------
+[Facebook](https://www.facebook.com/groups/ScientistsWanted/)
+[Twitter](https://twitter.com/ScientistWanted)
+[SoundCloud](https://soundcloud.com/scientistswanted)
