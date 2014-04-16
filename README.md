@@ -11,6 +11,7 @@ If there happen to be a bug or problem with the bot you can report issues about 
 
 `Warning` This script can only be function at [Scientist Wanted](http://plug.dj/scientists/), If any of this script is being customized by unknown author will face the consequences!
 
-[Facebook](https://www.facebook.com/groups/ScientistsWanted/)
-[Twitter](https://twitter.com/ScientistWanted)
+##### Contact us at: 
+[Facebook](https://www.facebook.com/groups/ScientistsWanted/) | 
+[Twitter](https://twitter.com/ScientistWanted) | 
 [SoundCloud](https://soundcloud.com/scientistswanted)
